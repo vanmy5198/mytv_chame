@@ -1,0 +1,17 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+release-channel/
+APP_ENV/.expo/*
+APP_ENV=staging/.expo/*
+publish/.expo/*
+
+# macOS
+.DS_Store
